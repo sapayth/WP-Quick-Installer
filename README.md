@@ -55,6 +55,3 @@ If `project_name` is not provided, the script will prompt for one.
 ## License
 This script is open-source and available for modification and use.
 
-## Author
-Developed by [Your Name]
-
